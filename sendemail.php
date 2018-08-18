@@ -6,7 +6,7 @@
     header( 'Content-type: application/json' );
 
 
-    $to         = 'trendytheme.net@gmail.com';  // put your email here
+    $to         = 'honey.singhroi@gmail.com';  // put your email here
 
     $email_template = 'simple.html';
 
@@ -48,7 +48,6 @@
 
 
     $templateTags =  array(
-        '{{subject}}' => $subject,
         '{{email}}'=>$email,
         '{{message}}'=>$message,
         '{{name}}'=>$name,
