@@ -1,4 +1,4 @@
-To see the Website in action visit: [honeysharma.tech](honeysharma.tech)
+To see the Website in action visit: [honeysharma.me](honeysharma.me)
 
 ### This is my personal Website and The whole idea revolves around two things which are often considered as two different poles of Globe:
 
